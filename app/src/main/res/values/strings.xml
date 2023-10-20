@@ -12,4 +12,6 @@
 
     <string name="correct_answer">Prawidłowa odpowiedź</string>
     <string name="incorrect_answer">Nieprawidłowa odpowiedź</string>
+
+    <string name="answer_was_shown">Odpowiedz byla juz wyswietlona!</string>
 </resources>
